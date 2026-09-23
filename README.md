@@ -1,12 +1,12 @@
 # Md Raaisur Rahman
 
-Data Analyst/Analytics Engineer | Low‑Code AI Automation Freelancer
+Data Analyst / Analytics Engineer | Low‑Code AI Automation Freelancer
 
 I turn messy data into clear answers—and build the tools that make analysis repeatable. On Upwork I help clients automate workflows, connect apps, and deliver dashboards without heavy custom code.
 
 ## What I do
 
-- **Data pipelines**: Extract, transform, and load data from an on-premises and cloud data gateway.
+- **Data pipelines**: Extract, transform, and load data from an on-premises or cloud data gateway.
 - **Analytics engineering**: Model data, build transformations, and maintain version‑controlled pipelines
 - **Low‑code automation**: Design recurring workflows, API integrations, and custom dashboards using Make.com, n8n, and Softr
 - **Visualization**: Create interactive reports in Power BI and Microsoft Fabric, with drill‑through and alerts
