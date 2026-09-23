@@ -1,6 +1,6 @@
 # Md Raaisur Rahman
 
-Data Analyst & Analytics Engineer | Low‑Code AI Automation Freelancer
+Data Analyst/Analytics Engineer | Low‑Code AI Automation Freelancer
 
 I turn messy data into clear answers—and build the tools that make analysis repeatable. On Upwork I help clients automate workflows, connect apps, and deliver dashboards without heavy custom code.
 
@@ -25,10 +25,10 @@ I turn messy data into clear answers—and build the tools that make analysis re
 
 ## Get in touch
 
--[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:md.raaisur.rahman@gmail.com)
--[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01194abe8507abd2a1)
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raaisurahman)
--[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/qr/7R3HWEJ6ILKDI1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:md.raaisur.rahman@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01194abe8507abd2a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raaisurahman)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=212615254989)
 
 
 *Open to contract and full‑time roles in data analytics, analytics engineering, or low‑code AI automation.
